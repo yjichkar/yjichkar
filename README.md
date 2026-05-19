@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
 - 👋 Hi, I’m @yjichkar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analystics
